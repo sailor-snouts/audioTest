@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
+	<SoundBanks>
+		<SoundBank Id="4072029455" Type="User" GUID="{B45B1F61-5581-440A-91BD-F601BFD04301}" Language="SFX" Hash="{93DB73B1-468E-1616-5D1A-5EC66AAA577D}">
+			<ObjectPath>\SoundBanks\Default Work Unit\New_SoundBank</ObjectPath>
+			<ShortName>New_SoundBank</ShortName>
+			<Path>New_SoundBank.bnk</Path>
+			<Media>
+				<File Id="270012138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>1- Dark Fantasy Studio- Behind space.wav</ShortName>
+					<CachePath>SFX/1- Dark Fantasy Studio- Behind space_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" GUID="{E81017AA-3F45-46C4-A78E-F8EC3AEB0CC5}" DurationType="OneShot" DurationMin="196.3" DurationMax="196.3">
+					<MediaRefs>
+						<MediaRef Id="270012138"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{8840274A-2BBC-1218-E3E7-7945A0B5F615}</FileHash>
+</SoundBanksInfo>

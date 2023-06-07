@@ -1,0 +1,93 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "145",
+  "RootPaths": {
+   "ProjectRoot": "../..",
+   "SourceFilesRoot": "../../.cache/Windows",
+   "SoundBanksRoot": ".",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "."
+  },
+  "DialogueEvents": [],
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Type": "User",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "{986487A9-2683-E47A-8688-3D0FE6FDB954}",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk",
+    "Plugins": {
+     "AudioDevices": [
+      {
+       "Id": "2317455096",
+       "Name": "No_Output",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\No_Output",
+       "GUID": "{1ED30F16-F189-40A0-9185-924A77E72799}",
+       "LibName": "No Output",
+       "LibId": "11862023"
+      },
+      {
+       "Id": "3859886410",
+       "Name": "System",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\System",
+       "GUID": "{C95872C0-4A58-4B84-BA12-2706A6F5110C}",
+       "LibName": "System",
+       "LibId": "11403271"
+      }
+     ]
+    },
+    "Busses": [
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     }
+    ]
+   },
+   {
+    "Id": "4072029455",
+    "Type": "User",
+    "GUID": "{B45B1F61-5581-440A-91BD-F601BFD04301}",
+    "Language": "SFX",
+    "Hash": "{93DB73B1-468E-1616-5D1A-5EC66AAA577D}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\New_SoundBank",
+    "ShortName": "New_SoundBank",
+    "Path": "New_SoundBank.bnk",
+    "Media": [
+     {
+      "Id": "270012138",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "1- Dark Fantasy Studio- Behind space.wav",
+      "CachePath": "SFX/1- Dark Fantasy Studio- Behind space_10C4C929.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3050945240",
+      "Name": "New_Event",
+      "ObjectPath": "\\Events\\Default Work Unit\\New_Event",
+      "GUID": "{E81017AA-3F45-46C4-A78E-F8EC3AEB0CC5}",
+      "DurationType": "OneShot",
+      "DurationMin": "196.3",
+      "DurationMax": "196.3",
+      "MediaRefs": [
+       {
+        "Id": "270012138"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5ECB9E10-D57B-CB89-2ED0-E8CE63BCC53D}"
+ }
+}

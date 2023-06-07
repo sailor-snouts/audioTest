@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "145",
+  "SoundBanks": [
+   {
+    "Id": "4072029455",
+    "Type": "User",
+    "GUID": "{B45B1F61-5581-440A-91BD-F601BFD04301}",
+    "Language": "SFX",
+    "Hash": "{93DB73B1-468E-1616-5D1A-5EC66AAA577D}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\New_SoundBank",
+    "ShortName": "New_SoundBank",
+    "Path": "New_SoundBank.bnk",
+    "Media": [
+     {
+      "Id": "270012138",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "1- Dark Fantasy Studio- Behind space.wav",
+      "CachePath": "SFX/1- Dark Fantasy Studio- Behind space_10C4C929.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3050945240",
+      "Name": "New_Event",
+      "ObjectPath": "\\Events\\Default Work Unit\\New_Event",
+      "GUID": "{E81017AA-3F45-46C4-A78E-F8EC3AEB0CC5}",
+      "DurationType": "OneShot",
+      "DurationMin": "196.3",
+      "DurationMax": "196.3",
+      "MediaRefs": [
+       {
+        "Id": "270012138"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{665BA0F7-ECB8-FA18-E28C-FCC938723F6B}"
+ }
+}
