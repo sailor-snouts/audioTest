@@ -73,4 +73,14 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# wwise plugin
 !Plugins/Wwise/*/**
+
+# wwise project
+audioTest_WwiseProject/WwiseProject/Backup/
+audioTest_WwiseProject/WwiseProject/Cache/
+audioTest_WwiseProject/WwiseProject/Intermediates/
+audioTest_WwiseProject/WwiseProject/Mac-Monterey-*/ # or the equivalent for your OS
+audioTest_WwiseProject/WwiseProject/Originals.backup/
+audioTest_WwiseProject/WwiseProject/*.autosave
+audioTest_WwiseProject/WwiseProject/*.wsettings
