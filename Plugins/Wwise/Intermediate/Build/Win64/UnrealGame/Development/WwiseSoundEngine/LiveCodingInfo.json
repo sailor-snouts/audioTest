@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WwiseSoundEngine.cpp.obj": [
+			"AkUnrealHelper.gen.cpp.obj",
+			"WwiseSoundEngine.init.gen.cpp.obj",
+			"AkUnrealHelper.cpp.obj",
+			"Global.cpp.obj",
+			"SoundEngine.cpp.obj",
+			"WwiseSoundEngineModule.cpp.obj",
+			"HoloLensAPI_2022_1.cpp.obj",
+			"WindowsAPI_2022_1.cpp.obj",
+			"WAAPI_2022_1.cpp.obj",
+			"WwiseCommAPI_2022_1.cpp.obj",
+			"WwiseMemoryMgrAPI_2022_1.cpp.obj",
+			"WwiseMonitorAPI_2022_1.cpp.obj",
+			"WwiseMusicEngineAPI_2022_1.cpp.obj",
+			"WwiseSoundEngineAPI_2022_1.cpp.obj",
+			"WwiseSpatialAudioAPI_2022_1.cpp.obj",
+			"WwiseStreamMgrAPI_2022_1.cpp.obj",
+			"SoundEngine_2022_1.cpp.obj",
+			"WwiseSoundEngine_2022_1.cpp.obj"
+		]
+	}
+}
