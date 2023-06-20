@@ -75,6 +75,8 @@ DerivedDataCache/*
 
 # wwise plugin
 !Plugins/Wwise/*/**
+Plugins/Wwise/**/*.obj
+Plugins/Wwise/Intermediate/*
 
 # wwise project
 audioTest_WwiseProject/WwiseProject/Backup/
